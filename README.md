@@ -4,7 +4,7 @@ A numerical study of the Kuramoto model of coupled oscillators,
 comparing particle simulations with the predictions of mean-field 
 theory.
 
-![Animation of the Kuramoto model](kuramoto(1).gif)
+![Animation of the Kuramoto model](kuramoto.gif)
 
 ## The problem
 N oscillators, each with its own natural frequency, influence each 
